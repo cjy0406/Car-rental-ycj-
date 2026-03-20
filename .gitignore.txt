@@ -1,0 +1,25 @@
+# Django / Python 相关
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+media/
+staticfiles/
+*.log
+.env
+db.sqlite3
+
+# React / Node 相关
+node_modules/
+dist/
+.vite/
+.env
+*.log
+
+# 编辑器和系统文件
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
